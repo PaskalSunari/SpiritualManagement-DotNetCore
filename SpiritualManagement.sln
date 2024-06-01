@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritualManagement.Models"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritualManagement.DAL", "..\SpiritualManagement.DAL\SpiritualManagement.DAL.csproj", "{6389B4A3-6B13-4B1A-B2B9-21268E7EFA77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritualManagement.Domain", "..\SpiritualManagement.Domain\SpiritualManagement.Domain.csproj", "{D858241D-0CD1-4F6F-8711-7B007FCE1E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritualManagement.API", "..\SpiritualManagement.API\SpiritualManagement.API.csproj", "{9E351157-9755-41F7-B285-13547C1E7320}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{6389B4A3-6B13-4B1A-B2B9-21268E7EFA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6389B4A3-6B13-4B1A-B2B9-21268E7EFA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6389B4A3-6B13-4B1A-B2B9-21268E7EFA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D858241D-0CD1-4F6F-8711-7B007FCE1E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D858241D-0CD1-4F6F-8711-7B007FCE1E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D858241D-0CD1-4F6F-8711-7B007FCE1E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D858241D-0CD1-4F6F-8711-7B007FCE1E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E351157-9755-41F7-B285-13547C1E7320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E351157-9755-41F7-B285-13547C1E7320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E351157-9755-41F7-B285-13547C1E7320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E351157-9755-41F7-B285-13547C1E7320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
